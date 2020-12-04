@@ -1,4 +1,4 @@
 # sysinfo-reverse
 Show system information and string revers on Assembly
 
-Об’єднати результати функцій GetComputerName, GetCurrentDirectory, GetSystemDirectory, в одну стрічку. Вивести  у вікні  MessageBox’у. При тому  вивести 2 кнопки, «ОК» та «Canсel» . При у мові натиснення «ОК», повторно вивести стрічку у реверсі, при умові Canсel», вийти з програми.
+Combine the results of **GetComputerName**, **GetCurrentDirectory**, **GetSystemDirectory** into one string. Display in the **MessageBox** window. At the same time display 2 buttons, *"OK"* and *"Cancel"*. If you press *"OK"*, re-print the string in reverse, if you can *"Cancel"*, exit the program.
